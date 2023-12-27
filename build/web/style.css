@@ -1,0 +1,63 @@
+.custom-bg{
+    background: #fc8019;
+}
+.form-signup{
+  margin: 0 auto;
+  max-width:400px;
+}
+
+.register-body{
+  padding-top: 120px;
+}
+
+.text-center{
+  text-align: center;
+}
+
+.custom-bg2{
+    background-color: #FFAB40;
+}
+.admin .card{
+    border: 2px solid black;
+}
+.admin .card:hover{
+    background-color: cyan;
+    border: 2px solid black;
+    cursor: pointer;
+}
+
+
+.list-group-item.active
+{
+    background-color: #FFAB40;
+    border-color: #FFAB40;
+}
+
+.product-card:hover{
+     background: cyan;
+}
+
+.icon-text-container {
+  display: flex;
+  align-items: center;
+}
+
+.material-icons {
+  font-size: 24px;
+  margin-right: 5px;
+}
+
+.gradient-custom {
+/* fallback for old browsers */
+background: #6a11cb;
+
+/* Chrome 10-25, Safari 5.1-6 */
+background: -webkit-linear-gradient(to right, rgba(106, 17, 203, 1), rgba(37, 117, 252, 1));
+
+/* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+background: linear-gradient(to right, rgba(106, 17, 203, 1), rgba(37, 117, 252, 1))
+}
+
+.yellow-star {
+      color: yellow;
+    }
